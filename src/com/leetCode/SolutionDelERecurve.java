@@ -45,7 +45,7 @@ public class SolutionDelERecurve {
     }
 
     /**
-     * 递归删除链表固定的元素
+     * 递归删除链表固定的元素简化版
      */
     public ListNode removeElements(ListNode head , int val){
         if (head == null)
@@ -53,6 +53,20 @@ public class SolutionDelERecurve {
         head.next =removeElements(head.next,val);
         return head.val == val ? head.next : head;
     }
+
+    /*public ListNode removeElements(ListNode head, int val) {
+
+        if(head == null)
+            return head;
+
+        ListNode res = removeElements(head.next, val);
+        if(head.val == val)
+            return res;
+        else{
+            head.next = res;
+            return head;
+        }
+    }*/
 
 
 
