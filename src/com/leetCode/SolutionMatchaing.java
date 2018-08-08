@@ -1,11 +1,9 @@
 package com.leetCode;
 
 
-import sun.nio.cs.ext.ISCII91;
-
 import java.util.Stack;
 
-public class Solution {
+public class SolutionMatchaing {
 
     //栈    匹配括号
     public boolean isValid(String s){
@@ -31,7 +29,7 @@ public class Solution {
 
 
     public static void main(String[] args) {
-        System.out.println(new Solution().isValid("{{{{})"));
-        System.out.println(new Solution().isValid("{}[]()"));
+        System.out.println(new SolutionMatchaing().isValid("{{{{})"));
+        System.out.println(new SolutionMatchaing().isValid("{}[]()"));
     }
 }
