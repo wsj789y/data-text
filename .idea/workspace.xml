@@ -3,23 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d50627d-9f07-4aee-8bcf-835794b02f54" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/array/Array.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/company/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/leetCode/Solution.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/linked/LinkedList$Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/linked/LinkedList.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/linked/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/queue/ArrayQueue.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/queue/LinkedListQueue$Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/queue/LinkedListQueue.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/queue/LoopArrayQueue.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/queue/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/queue/Queue.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/stack/ArrayStack.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/stack/LinkedListStack.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/stack/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-test/com/stack/Stack.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/trees/bst/BST.java" afterPath="$PROJECT_DIR$/src/com/trees/bst/BST.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -437,12 +420,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533606819852</updated>
       <workItem from="1533606822433" duration="25648000" />
-      <workItem from="1533780707992" duration="4935000" />
+      <workItem from="1533780707992" duration="5313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30583000" />
+    <option name="totallyTimeSpent" value="30961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
